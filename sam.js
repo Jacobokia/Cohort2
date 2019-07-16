@@ -6,7 +6,7 @@
 
 
 //1 . Function without parameters
-function addFourNumbers() {
+function addFourNumbers() {   // declaring the function 
     var num1 = 3;
     var num2 = 4;
     var num3 = 3;
