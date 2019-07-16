@@ -24,7 +24,7 @@ function addFourNumbers() {   // declaring the function
     // printing out the value total to the console
     console.log(total)                
 }
-    //calling the function
+    //calling the function (addFourNumbers) 
 addFourNumbers();
 
 /*==================================================================================================================================
@@ -38,8 +38,7 @@ function addFourNumbersWithParam(num1, num2, num3, num4) {
     total = num1 + num2 + num3 + num4
     console.log(total)
 }
-
-// invoking the function and passing the arguments
+// invoking the function(addFourNumbersWithParam) and passing the arguments
 addFourNumbersWithParam(10, 15, 25, 10);
 
 /*=================================================================================================================================
@@ -53,7 +52,5 @@ function addOddNumbers() {                    // function declaration
         }
     }
 }
-
 //Calling the function 
 addOddNumbers();
-
