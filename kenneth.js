@@ -19,7 +19,7 @@ function add(a, b, c, d) {
 }
 add(100, 200, 300, 400);
 
-//Checking for addOddNumber between 50-100.
+//Checking for OddNumbers between 50-100.
 function addOddNumber() {
     for (var odd = 50; odd <= 100; odd++) {
         if (odd % 2 !== 0) {
