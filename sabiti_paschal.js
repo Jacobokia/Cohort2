@@ -1,4 +1,4 @@
-/*A function 'dsu' that has four parameters with arguments*/
+/*A function 'dsu' that adds four numbers and has arguments*/
 function dsu(a,b,c,d){
 /*the arguments are a,b,c and d*/
 var r = a+b+c+d;
@@ -9,7 +9,7 @@ dsu(1,2,3,4)
 
 
 
-/*A function 'dcs' that has four aruguments without arguments*/
+/*A function 'dcs' that adds four numbers and is without arguments*/
 function dcs(){
 /*the variables are listed and defined here*/
 var a = 1;
