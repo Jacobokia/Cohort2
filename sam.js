@@ -2,9 +2,8 @@
 1 . Function without parameters
 ===================================================================================================================================*/
 
-/* 1. function to add 4 numbers */
-
-function addFourNumbers() {   // declaring the function 
+/* function to add 4 numbers, declaring the function */
+function addFourNumbers() {    
     
     //declaring and assigning the values to variables simultaneously
     var num1 = 3;
@@ -25,7 +24,7 @@ addFourNumbers();
 2 . Function with parameters
 ===================================================================================================================================*/
 
-// declaring the function with parameters 
+/* declaring the function with parameters */
 function addFourNumbersWithParam(num1, num2, num3, num4) { 
 
     // declaring and assigning the variable total to the sum of the variables above
@@ -39,7 +38,7 @@ addFourNumbersWithParam(10, 15, 25, 10);
 3 . Function to output odd numbers between 50-100
 =================================================================================================================================*/
 
-/* 3. function to check odd numbers between 50-100 */
+/* function to check odd numbers between 50-100 */
 function addOddNumbers() {                    
     
      // iterating through the numbers between 50-100
