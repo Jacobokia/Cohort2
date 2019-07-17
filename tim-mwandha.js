@@ -1,16 +1,20 @@
-/* function without parameters, adding up two operands*/
+/* exercise to make a function that adds two parameters*/
 function sum()
-var numb1, numb2, numb3; //declaring variables
 {
-sum(numb1, numb2)=numb3
+  let numbOne=10;
+  let numbTwo=20;
+  let numbThree=numbOne+numbTwo;
+  console.log(numbThree);
 }
-document.write sum()
+sum();
 
+/* exercise to make a function  multiplies the operands*/
 
-/*function with parameters, summing up operands*/
-function sum(a, b);
-let a=10, b=20; //declaring and initializing variables a and b.
+function product()
 {
-sum(a+b);
-}
-document.write sum()
+  let alpha=30;
+  let beta=40;
+  let  multiple=alpha*beta;
+  console.log(multiple);
+  }
+product();
