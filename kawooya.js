@@ -14,7 +14,7 @@ add();
 
 
 
-//function with parameter
+//function to add 4 numbers with parameter
 
 function add(num1, num2, num3, num4) {
     var sum = num1 + num2 + num3 + num4;
@@ -23,7 +23,7 @@ function add(num1, num2, num3, num4) {
 }
 add(2, 5, 7, 10)
 
-
+//function to output odd numbers between 50 and 100
 function checkOdd() {
     for (var num >= 50; num <= 100; num++;) {
         if (num % 2 != 0) {
