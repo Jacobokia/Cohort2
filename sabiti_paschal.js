@@ -32,6 +32,6 @@ if (a%2!==0){console.log(a)}/*this is the modulus oprator that checks for the ev
 
 
 
-this is sabbiti isaac paschal's work
+/*this is sabbiti isaac paschal's work
 thank you very much.
-regards.
+regards.*?*/
