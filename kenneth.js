@@ -1,4 +1,3 @@
-
 // //Adding four numbers without perimeters.
 function add() {
     var number1 = 100;
