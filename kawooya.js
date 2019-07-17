@@ -21,6 +21,7 @@ function add(num1, num2, num3, num4) {
     document.write(sum);
 
 }
+//pass values to variables and invoke function
 add(2, 5, 7, 10)
 
 //function to output odd numbers between 50 and 100
