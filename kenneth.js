@@ -25,7 +25,6 @@ function addOddNumber() {
         if (odd % 2 !== 0) {
             console.log(odd);
         }
-
     }
 }
 addOddNumber();
