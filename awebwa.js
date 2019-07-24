@@ -1,5 +1,5 @@
 <script>
-
+//function without parameters adding four numbers
     function add() {
         var num1=2;
         var num2=4;
@@ -12,7 +12,7 @@
     add();
 
 
-
+//fuction with parameters outputting arguements
     function arg(a, b, c, d) 
     {
   console.log(arguments[0]);
@@ -30,7 +30,7 @@
 arg(1, 2, 3, 4);
 
 
-
+//function outputing odd numbers between 50 and 100
 
     function odd() {
        var x;
@@ -47,6 +47,6 @@ arg(1, 2, 3, 4);
             
         }
     
-    0dd();
+    odd();
 
 </script>
